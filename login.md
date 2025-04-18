@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Login
-permalink: /
+permalink: /login
 ---
 
 This is the login page
