@@ -1,24 +1,54 @@
 ---
-layout: page
+layout: default
 title: Home
 permalink: /
 ---
 
-# Welcome to Your Playmate Sock Dolls, LLC
+<div class="hero">
+  <h1>Welcome to Your Playmate Sock Dolls!</h1>
+  <p>Bringing comfort and joy to seriously ill children, one cuddly friend at a time.</p>
+</div>
 
-Bringing smiles and comfort to seriously ill children through handcrafted sock dolls.
+<div class="button-grid">
+  <a href="/products" class="card-link">
+    <div class="card">
+      <h2>Shop Products</h2>
+      <p>Browse our collection of soft, handcrafted sock dolls.</p>
+    </div>
+  </a>
+  
+  <a href="/checkout" class="card-link">
+    <div class="card">
+      <h2>View Cart / Checkout</h2>
+      <p>Review your order and complete your purchase.</p>
+    </div>
+  </a>
+  
+  <a href="/about" class="card-link">
+    <div class="card">
+      <h2>About Us</h2>
+      <p>Learn more about our mission and the team behind it.</p>
+    </div>
+  </a>
+  
+  <a href="/contact" class="card-link">
+    <div class="card">
+      <h2>Contact Us</h2>
+      <p>Have questions? We’re happy to help!</p>
+    </div>
+  </a>
 
----
+  <a href="/login" class="card-link">
+    <div class="card">
+      <h2>Returning Customer Login</h2>
+      <p>Access your profile and previous orders.</p>
+    </div>
+  </a>
 
-### 🛒 Shop Now
-
-[Start Shopping »](checkout)
-
-Need help? [Live Chat with Sales Support](#) or call us at [1-800-555-PLAY](tel:1-800-555-PLAY)
-
----
-
-- [Login for Returning Customers](login)
-- [Register New Customer Profile](register)
-- [About Us](about)
-- [Contact Us](contact)
+  <a href="/register" class="card-link">
+    <div class="card">
+      <h2>New Customer Setup</h2>
+      <p>Create a profile to get started with your order.</p>
+    </div>
+  </a>
+</div>
