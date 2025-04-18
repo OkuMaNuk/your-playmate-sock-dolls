@@ -1,11 +1,16 @@
 ---
 layout: page
-title: About Us
-permalink: /about
+title: Contact Us
+permalink: /contact
 ---
 
-# About Your Playmate Sock Dolls
+# Contact Us
 
-Your Playmate Sock Dolls, LLC is a small, family-run business dedicated to creating soft, lovable sock dolls for children who are facing serious medical conditions.
+Have a question, suggestion, or need help with an order?
 
-We believe in providing warmth, comfort, and joy through our handmade creations. Our mission is simple: make every child smile, even on the toughest days.
+Reach us at:
+
+📞 Phone: [1-800-555-PLAY](tel:1-800-555-PLAY)  
+📧 Email: [support@playmatesockdolls.com](mailto:support@playmatesockdolls.com)
+
+Or start a [Live Chat with a Sales Support Specialist](#) during business hours.
