@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Checkout
-permalink: /
+permalink: /checkout
 ---
 
 This is the checkout page
