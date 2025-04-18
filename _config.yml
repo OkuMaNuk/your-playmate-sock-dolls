@@ -1,6 +1,7 @@
 theme: minima
 title: Your Playmate Sock Dolls, LLC
 permalink: pretty
+baseurl: "/your-playmate-sock-dolls"
 description: Bringing comfort to seriously ill children.
 markdown: kramdown
 
