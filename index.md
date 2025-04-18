@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /
+permalink: /index
 ---
 
 # Welcome to Your Playmate Sock Dolls, LLC
