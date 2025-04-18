@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /
+title: Contact Us
+permalink: /contact
 ---
 
 Contact information
