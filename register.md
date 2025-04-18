@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Register
-permalink: /
+permalink: /register
 ---
 
 This is the register page
