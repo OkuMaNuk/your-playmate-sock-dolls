@@ -1,2 +1,18 @@
-name: My Site
 theme: jekyll-theme-minimal
+title: Your Playmate Sock Dolls, LLC
+description: Bringing comfort to seriously ill children.
+markdown: kramdown
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About Us"
+    url: /about
+  - title: "Contact Us"
+    url: /contact
+  - title: "Order Checkout"
+    url: /checkout
+  - title: "Login"
+    url: /login
+  - title: "Register"
+    url: /register
