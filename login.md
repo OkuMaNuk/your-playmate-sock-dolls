@@ -1,7 +1,19 @@
 ---
 layout: page
-title: Login
+title: Customer Login
 permalink: /login
 ---
 
-This is the login page
+# Returning Customers
+
+Please log in to continue to your account.
+
+**Email:**  
+`[ your@email.com ]`
+
+**Password:**  
+`[ ******** ]`
+
+[Login Button]
+
+Forgot your password? [Click here](#)
