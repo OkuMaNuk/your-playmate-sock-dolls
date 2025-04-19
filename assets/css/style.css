@@ -1,52 +1,57 @@
 .hero {
-  background-color: #ffe9e3;
-  padding: 2rem;
+  background-color: #FFECE7;
+  padding: 3rem 2rem;
   text-align: center;
   border-radius: 12px;
-  margin-bottom: 2rem;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin: 2rem auto;
+  max-width: 960px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
 }
 
 .hero h1 {
-  font-size: 2rem;
-  color: #d44b3e;
-  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  color: #FF6F61;
+  margin-bottom: 1rem;
 }
 
 .hero p {
-  font-size: 1.2rem;
-  color: #555;
+  font-size: 1.25rem;
+  color: #5C4B47;
 }
 
 .button-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1rem;
-  padding: 0 1rem;
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .card {
-  background-color: #fffaf5;
-  border: 2px solid #ffd9cc;
+  background-color: #ffffff;
+  border: 2px solid #FFD9CC;
   padding: 1.5rem;
   border-radius: 10px;
   text-align: center;
-  transition: transform 0.2s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
 .card:hover {
-  transform: scale(1.03);
-  border-color: #ff6f61;
+  transform: translateY(-5px);
+  border-color: #FF6F61;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .card h2 {
-  margin-top: 0;
-  color: #e05547;
+  font-size: 1.5rem;
+  color: #FF6F61;
 }
 
 .card p {
-  color: #666;
+  font-size: 1rem;
+  color: #5C4B47;
 }
 
 .card-link {
@@ -54,11 +59,10 @@
   color: inherit;
 }
 
-
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #fffaf5;
-    color: #333;
+    background-color: #FFF5F2;
+    color: #5C4B47;
     line-height: 1.6;
     margin: 0;
     padding: 0;
